@@ -1,4 +1,4 @@
-apt-get install git
+apt update && apt -y install curl git wget
 git clone https://gitlab.com/a7480247/gas.git
 cd gas
 chmod u+x asik
