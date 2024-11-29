@@ -37,7 +37,7 @@
 
 "gpu_threads_conf" :
 [
-  // gpu: Tesla T4 architecture: 75
+  // gpu: NVIDIA A100-SXM4-40GB architecture: 80
   //      memory: 14817/14930 MiB
   //      smx: 40
   { "index" : 0,
